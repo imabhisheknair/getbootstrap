@@ -215,6 +215,30 @@ footer ul li a:hover {
     text-decoration: underline;
 }
 
+ #movetop {
+    display: none;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    z-index: 99;
+    font-size: 18px;
+    cursor: pointer;
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    border-width: initial;
+    border-style: none;
+    border-color: initial;
+    -o-border-image: initial;
+    border-image: initial;
+    outline: none;
+    background: #495057;
+    padding: 0px;
+    border-radius: 4px;
+    transition: all 0.5s ease-out 0s; }
+  
+
 @media only screen and (max-width: 990px) {
 
     
