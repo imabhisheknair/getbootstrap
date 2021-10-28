@@ -274,5 +274,8 @@ footer ul li a:hover {
     .icon-name {
         display: block;
     }
+    .card-text {
+        margin-top: 10px;
+    }
     
   }
